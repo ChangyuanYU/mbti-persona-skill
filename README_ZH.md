@@ -10,7 +10,7 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-green)](https://openclaw.org)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
-[English](./README.md) · [한국어](./README_KO.md) · [日本語](./README_JA.md)
+[English](./README.md) · [繁體中文](./README_ZH_TW.md) · [한국어](./README_KO.md) · [日本語](./README_JA.md)
 
 </div>
 
