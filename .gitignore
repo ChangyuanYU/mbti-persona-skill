@@ -1,0 +1,13 @@
+.omx/
+.DS_Store
+__pycache__/
+*.pyc
+output/
+.ruff_cache/
+MBTI_Assessment-bilingual_version_.pdf
+
+# Local-only: development tooling, tests, data, and docs
+data/
+docs/
+tests/
+tools/
