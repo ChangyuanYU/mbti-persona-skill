@@ -27,8 +27,8 @@
 ## 安装
 
 ```bash
-git clone git@github.com:ChangyuanYU/MBTI-SKILL.git
-cd MBTI-SKILL
+git clone git@github.com:ChangyuanYU/mbti-persona-skill.git
+cd mbti-persona-skill
 ```
 
 将 `mbti-persona/` 复制到你所用平台的 skill 目录：

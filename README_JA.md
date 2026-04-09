@@ -27,8 +27,8 @@
 ## インストール
 
 ```bash
-git clone git@github.com:ChangyuanYU/MBTI-SKILL.git
-cd MBTI-SKILL
+git clone git@github.com:ChangyuanYU/mbti-persona-skill.git
+cd mbti-persona-skill
 ```
 
 `mbti-persona/` を各プラットフォームの skill ディレクトリにコピーしてください：

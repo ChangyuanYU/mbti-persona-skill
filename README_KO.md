@@ -27,8 +27,8 @@
 ## 설치
 
 ```bash
-git clone git@github.com:ChangyuanYU/MBTI-SKILL.git
-cd MBTI-SKILL
+git clone git@github.com:ChangyuanYU/mbti-persona-skill.git
+cd mbti-persona-skill
 ```
 
 `mbti-persona/` 폴더를 사용 중인 플랫폼의 skill 디렉터리에 복사하세요:
