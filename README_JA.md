@@ -41,7 +41,7 @@ cd MBTI-SKILL
 
 ## クイックスタート
 
-使いたい MBTI タイプをそのまま指定するだけです：
+Claude Code で `/mbti-persona` と入力して skill を有効化し、使いたいタイプを指定してください：
 
 ```
 INTJ の感じで話して

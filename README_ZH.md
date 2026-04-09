@@ -41,7 +41,7 @@ cd MBTI-SKILL
 
 ## 快速开始
 
-直接告诉模型你想要的人格类型：
+在 Claude Code 中输入 `/mbti-persona` 激活 skill，然后告诉模型你想要的人格类型：
 
 ```
 用 INTJ 的方式和我说话

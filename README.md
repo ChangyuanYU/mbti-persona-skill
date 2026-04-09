@@ -41,7 +41,7 @@ Copy `mbti-persona/` to your platform's skill directory:
 
 ## Quick Start
 
-Tell the model which type you want:
+In Claude Code, type `/mbti-persona` to activate the skill, then tell the model which type you want:
 
 ```
 Talk to me as INTJ

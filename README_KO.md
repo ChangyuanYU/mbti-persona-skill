@@ -41,7 +41,7 @@ cd MBTI-SKILL
 
 ## 빠른 시작
 
-원하는 MBTI 유형을 직접 지정하세요:
+Claude Code에서 `/mbti-persona`를 입력하여 skill을 활성화한 뒤, 원하는 MBTI 유형을 지정하세요:
 
 ```
 INTJ 방식으로 대화해 줘
